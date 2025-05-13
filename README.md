@@ -17,5 +17,5 @@ pip install -r requirements.txt
 ### Запуск скраппера
 
 ```bash
-python scripts/scraper.py
+python scripts/scrapper.py
 ```
